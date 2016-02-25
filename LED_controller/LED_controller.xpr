@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="10" Path="C:/Users/emink/Desktop/ekose/LED_controller/LED_controller.xpr">
+<Project Version="7" Minor="10" Path="C:/Users/emink/Desktop/git/ZYNQ/LED_controller/LED_controller.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="c8cdb97ed44e4959b8627bc18943cb2b"/>

@@ -2,8 +2,8 @@
 # Webtalk v2015.4 (64-bit)
 # SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
 # 
-# Start of session at: Thu Feb 25 23:10:58 2016
-# Process ID: 2192
+# Start of session at: Thu Feb 25 23:08:56 2016
+# Process ID: 3384
 # Current directory: C:/Users/emink/Desktop/git/ZYNQ/LED_controller/LED_controller.sdk/webtalk
 # Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
 # Log file: C:/Users/emink/Desktop/git/ZYNQ/LED_controller/LED_controller.sdk/webtalk/webtalk.log
@@ -12,7 +12,7 @@
 source sdk_webtalk.tcl
 # webtalk_init -webtalk_dir C:\\Users\\emink\\Desktop\\git\\ZYNQ\\LED_controller\\LED_controller.sdk\\webtalk
 # webtalk_register_client -client project
-# webtalk_add_data -client project -key date_generated -value "Per Þub 25 23:10:57 2016" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key date_generated -value "Per Þub 25 23:08:54 2016" -context "software_version_and_target_device"
 # webtalk_add_data -client project -key product_version -value "SDK v2015.4" -context "software_version_and_target_device"
 # webtalk_add_data -client project -key build_version -value "2015.4" -context "software_version_and_target_device"
 # webtalk_add_data -client project -key os_platform -value "amd64" -context "software_version_and_target_device"
@@ -24,9 +24,9 @@ source sdk_webtalk.tcl
 # webtalk_add_data -client project -key target_device -value "NA" -context "software_version_and_target_device"
 # webtalk_add_data -client project -key target_package -value "NA" -context "software_version_and_target_device"
 # webtalk_add_data -client project -key target_speed -value "NA" -context "software_version_and_target_device"
-# webtalk_add_data -client project -key random_id -value "1ghb13kol3c7fmacr7f9einssn" -context "software_version_and_target_device"
-# webtalk_add_data -client project -key project_id -value "2015.4_7" -context "software_version_and_target_device"
-# webtalk_add_data -client project -key project_iteration -value "7" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key random_id -value "nh57gjboqscl9coqvluaeefpc8" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key project_id -value "2015.4_6" -context "software_version_and_target_device"
+# webtalk_add_data -client project -key project_iteration -value "6" -context "software_version_and_target_device"
 # webtalk_add_data -client project -key os_name -value "" -context "user_environment"
 # webtalk_add_data -client project -key os_release -value "" -context "user_environment"
 # webtalk_add_data -client project -key cpu_name -value "" -context "user_environment"
@@ -34,16 +34,16 @@ source sdk_webtalk.tcl
 # webtalk_add_data -client project -key total_processors -value "" -context "user_environment"
 # webtalk_add_data -client project -key system_ram -value "" -context "user_environment"
 # webtalk_register_client -client sdk
-# webtalk_add_data -client sdk -key uid -value "1456434593509" -context "sdk\\\\hardware/1456434593509"
-# webtalk_add_data -client sdk -key isZynq -value "true" -context "sdk\\\\hardware/1456434593509"
-# webtalk_add_data -client sdk -key Processors -value "2" -context "sdk\\\\hardware/1456434593509"
-# webtalk_add_data -client sdk -key VivadoVersion -value "2015.4" -context "sdk\\\\hardware/1456434593509"
-# webtalk_add_data -client sdk -key Arch -value "zynq" -context "sdk\\\\hardware/1456434593509"
-# webtalk_add_data -client sdk -key Device -value "7z020" -context "sdk\\\\hardware/1456434593509"
-# webtalk_add_data -client sdk -key IsHandoff -value "true" -context "sdk\\\\hardware/1456434593509"
-# webtalk_transmit -clientid 3476437247 -regid "" -xml C:\\Users\\emink\\Desktop\\git\\ZYNQ\\LED_controller\\LED_controller.sdk\\webtalk\\usage_statistics_ext_sdk.xml -html C:\\Users\\emink\\Desktop\\git\\ZYNQ\\LED_controller\\LED_controller.sdk\\webtalk\\usage_statistics_ext_sdk.html -wdm C:\\Users\\emink\\Desktop\\git\\ZYNQ\\LED_controller\\LED_controller.sdk\\webtalk\\sdk_webtalk.wdm -intro "<H3>SDK Usage Report</H3><BR>"
+# webtalk_add_data -client sdk -key uid -value "1456434516190" -context "sdk\\\\hardware/1456434516190"
+# webtalk_add_data -client sdk -key isZynq -value "true" -context "sdk\\\\hardware/1456434516190"
+# webtalk_add_data -client sdk -key Processors -value "2" -context "sdk\\\\hardware/1456434516190"
+# webtalk_add_data -client sdk -key VivadoVersion -value "2015.4" -context "sdk\\\\hardware/1456434516190"
+# webtalk_add_data -client sdk -key Arch -value "zynq" -context "sdk\\\\hardware/1456434516190"
+# webtalk_add_data -client sdk -key Device -value "7z020" -context "sdk\\\\hardware/1456434516190"
+# webtalk_add_data -client sdk -key IsHandoff -value "true" -context "sdk\\\\hardware/1456434516190"
+# webtalk_transmit -clientid 739948573 -regid "" -xml C:\\Users\\emink\\Desktop\\git\\ZYNQ\\LED_controller\\LED_controller.sdk\\webtalk\\usage_statistics_ext_sdk.xml -html C:\\Users\\emink\\Desktop\\git\\ZYNQ\\LED_controller\\LED_controller.sdk\\webtalk\\usage_statistics_ext_sdk.html -wdm C:\\Users\\emink\\Desktop\\git\\ZYNQ\\LED_controller\\LED_controller.sdk\\webtalk\\sdk_webtalk.wdm -intro "<H3>SDK Usage Report</H3><BR>"
 
     while executing
-"webtalk_transmit -clientid 3476437247 -regid "" -xml C:\\Users\\emink\\Desktop\\git\\ZYNQ\\LED_controller\\LED_controller.sdk\\webtalk\\usage_statisti..."
+"webtalk_transmit -clientid 739948573 -regid "" -xml C:\\Users\\emink\\Desktop\\git\\ZYNQ\\LED_controller\\LED_controller.sdk\\webtalk\\usage_statistic..."
     (file "sdk_webtalk.tcl" line 32)
-INFO: [Common 17-206] Exiting Webtalk at Thu Feb 25 23:10:59 2016...
+INFO: [Common 17-206] Exiting Webtalk at Thu Feb 25 23:08:56 2016...

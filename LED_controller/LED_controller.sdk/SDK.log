@@ -185,3 +185,12 @@ Caused by: java.lang.Error: Channel is waiting for Hello message
 22:54:19 INFO  : ps7_init is completed.
 22:54:19 INFO  : Processor reset is completed for ps7_cortexa9_0
 22:54:26 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+23:08:25 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/SDK/2015.4/scripts/xsdb/xsdb/xsdb-server.tcl
+23:08:27 INFO  : XSDB server has started successfully.
+23:08:27 INFO  : Processing command line option -hwspec C:/Users/emink/Desktop/git/ZYNQ/LED_controller/LED_controller.sdk/system_wrapper.hdf.
+23:09:43 INFO  : Launching XSDB server: xsdb.bat C:/Xilinx/SDK/2015.4/scripts/xsdb/xsdb/xsdb-server.tcl
+23:09:45 INFO  : XSDB server has started successfully.
+23:09:45 INFO  : Processing command line option -hwspec C:/Users/emink/Desktop/git/ZYNQ/LED_controller/LED_controller.sdk/system_wrapper.hdf.
+23:10:28 INFO  : Processor reset is completed for ps7_cortexa9_0
+23:10:52 INFO  : Processor reset is completed for ps7_cortexa9_0
+23:10:58 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
