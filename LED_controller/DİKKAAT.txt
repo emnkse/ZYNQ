@@ -1,0 +1,7 @@
+terminalden FPGA'in olduðu com portuna baðlan. Ayarlar aþaðýda;
+
+BAUD: 115200
+DATA: 8 Bit
+PARITY: Yok
+STOP: 1 Bit
+FLOW: Yok

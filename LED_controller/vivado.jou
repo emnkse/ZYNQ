@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Thu Feb 25 22:53:16 2016
+# Process ID: 6248
+# Current directory: C:/Users/emink/Desktop/ekose/LED_controller
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3480 C:\Users\emink\Desktop\ekose\LED_controller\LED_controller.xpr
+# Log file: C:/Users/emink/Desktop/ekose/LED_controller/vivado.log
+# Journal file: C:/Users/emink/Desktop/ekose/LED_controller\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/emink/Desktop/ekose/LED_controller/LED_controller.xpr
+launch_sdk -workspace C:/Users/emink/Desktop/ekose/LED_controller/LED_controller.sdk -hwspec C:/Users/emink/Desktop/ekose/LED_controller/LED_controller.sdk/system_wrapper.hdf

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# 
+# Start of session at: Wed Feb 24 22:50:00 2016
+# Process ID: 4508
+# Current directory: C:/Users/emink/Desktop/ekose/LED_controller/LED_controller.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/emink/Desktop/ekose/LED_controller/LED_controller.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/emink/Desktop/ekose/LED_controller/LED_controller.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
